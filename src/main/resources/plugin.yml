@@ -1,0 +1,7 @@
+name: StrangePotions
+version: 1.0.0-SNAPSHOT
+author: PandaTwo
+main: br.com.pandatwo.pStrangePotions.pStrangePotions
+commands:
+  spotion:
+    description: Simple plugin to add effects to a potion!
